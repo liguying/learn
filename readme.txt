@@ -4,7 +4,7 @@ but just like grains of sand,¡£
 
 love slipped through my fingers...
 
-       software!
+       sof¡£
 	       
 		   
 		   aaaaaaaaaaaaaa
@@ -13,3 +13,4 @@ love slipped through my fingers...
    ccccc
    
    11111111111
+   
