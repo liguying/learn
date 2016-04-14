@@ -3,5 +3,5 @@
 	
 	Creating a new branch is quick and simple
 
-	new master1 and new dev1!
+	new master1 and new dev1! fix bug`
 yi~
