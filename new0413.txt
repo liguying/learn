@@ -10,3 +10,6 @@ fix bug 102 done
 	dev ..........
 
 tag 2
+
+tag 3.0
+tag 4.0
